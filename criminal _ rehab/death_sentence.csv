@@ -1,0 +1,447 @@
+state_name,year,no_capital_punishment,no_life_imprisonment,no_executed
+Uttar Pradesh,2009,57,21,false
+Uttar Pradesh,2005,51,117,false
+Uttar Pradesh,2011,47,4,false
+Uttar Pradesh,2003,35,18,false
+Uttar Pradesh,2002,34,45,false
+Uttar Pradesh,2004,33,82,false
+Uttar Pradesh,2007,30,8,false
+Maharashtra,2007,29,0,false
+Bihar,2003,25,73,false
+Bihar,2008,25,21,false
+Uttar Pradesh,2010,25,12,false
+Uttar Pradesh,2012,25,14,false
+Tamil Nadu,2002,24,6,false
+Uttar Pradesh,2006,24,26,false
+West Bengal,2005,24,2,false
+Karnataka,2008,22,2,false
+Madhya Pradesh,2007,22,0,false
+Tamil Nadu,2003,22,6,false
+Madhya Pradesh,2013,22,1,false
+Jharkhand,2005,21,132,false
+Bihar,2002,20,89,false
+Maharashtra,2006,20,0,false
+Gujarat,2004,19,0,false
+Karnataka,2010,19,0,false
+Uttar Pradesh,2001,19,120,false
+Bihar,2013,19,22,false
+Madhya Pradesh,2008,17,10,false
+Bihar,2004,16,6,false
+Tamil Nadu,2001,16,1,false
+Jharkhand,2004,15,44,false
+Maharashtra,2009,15,4,false
+Uttar Pradesh,2008,15,5,false
+Bihar,2007,14,8,false
+Gujarat,2011,14,1,false
+Karnataka,2005,14,0,false
+Karnataka,2007,14,0,false
+Maharashtra,2003,14,12,false
+Orissa,2007,14,14,false
+Tamil Nadu,2007,14,0,false
+Bihar,2001,13,50,false
+Karnataka,2006,13,0,false
+Maharashtra,2002,13,126,false
+Maharashtra,2013,13,16,false
+Bihar,2012,12,4,false
+Maharashtra,2008,12,1,false
+West Bengal,2010,12,7,false
+Jharkhand,2009,11,10,false
+Kerala,2003,11,1,false
+Madhya Pradesh,2005,11,11,false
+Punjab,2001,11,24,false
+Rajasthan,2003,11,3,false
+Uttaranchal,2006,11,22,false
+Chhattisgarh,2013,11,3,false
+Uttar Pradesh,2013,11,14,false
+Delhi,2013,11,5,true
+Tamil Nadu,2006,10,0,false
+West Bengal,2009,10,17,false
+Delhi,2006,10,806,false
+Delhi,2010,10,1,false
+Jammu & Kashmir,2011,9,1,false
+Madhya Pradesh,2006,9,0,false
+Delhi,2005,9,919,false
+Delhi,2007,9,726,false
+Delhi,2012,9,3,false
+Jharkhand,2013,9,1,false
+Assam,2005,8,0,false
+Gujarat,2005,8,0,false
+Gujarat,2009,8,1,false
+Haryana,2001,8,2,false
+Jharkhand,2006,8,8,false
+Jharkhand,2010,8,8,false
+Karnataka,2012,8,1,false
+Punjab,2011,8,0,false
+Tamil Nadu,2005,8,0,false
+West Bengal,2008,8,1,false
+Delhi,2002,8,2,false
+Delhi,2011,8,1,false
+Chhattisgarh,2007,7,1,false
+Karnataka,2004,7,0,false
+Madhya Pradesh,2012,7,5,false
+Maharashtra,2001,7,1,false
+Orissa,2006,7,1,false
+Delhi,2004,7,0,false
+Haryana,2013,7,2,false
+Assam,2012,6,0,false
+Bihar,2006,6,27,false
+Jharkhand,2008,6,1,false
+Jharkhand,2011,6,4,false
+Madhya Pradesh,2004,6,3,false
+Rajasthan,2005,6,1,false
+Rajasthan,2006,6,4,false
+West Bengal,2001,6,2,false
+West Bengal,2007,6,0,false
+West Bengal,2011,6,13,false
+Bihar,2009,5,20,false
+Chhattisgarh,2002,5,0,false
+Gujarat,2003,5,0,false
+Haryana,2009,5,2,false
+Karnataka,2009,5,0,false
+Kerala,2007,5,0,false
+Kerala,2009,5,0,false
+Orissa,2001,5,53,false
+Orissa,2004,5,0,false
+Delhi,2003,5,3,false
+Bihar,2010,4,12,false
+Haryana,2011,4,0,false
+Jammu & Kashmir,2001,4,1,false
+Jharkhand,2002,4,1,false
+Kerala,2005,4,9,false
+Madhya Pradesh,2001,4,3,false
+Madhya Pradesh,2002,4,17,false
+Madhya Pradesh,2003,4,1,false
+Madhya Pradesh,2010,4,2,false
+Madhya Pradesh,2011,4,0,false
+Maharashtra,2004,4,16,false
+Maharashtra,2005,4,2,false
+Maharashtra,2010,4,11,false
+Maharashtra,2012,4,0,true
+Rajasthan,2010,4,0,false
+Tamil Nadu,2009,4,8,false
+Tamil Nadu,2010,4,1,false
+Daman & Diu,2002,4,0,false
+Karnataka,2013,4,21,false
+Andhra Pradesh,2002,3,1,false
+Andhra Pradesh,2011,3,0,false
+Assam,2001,3,2,false
+Gujarat,2001,3,1,false
+Gujarat,2012,3,2,false
+Haryana,2003,3,0,false
+Haryana,2004,3,3,false
+Haryana,2007,3,2,false
+Haryana,2008,3,2,false
+Haryana,2012,3,7,false
+Jammu & Kashmir,2007,3,0,false
+Jammu & Kashmir,2009,3,0,false
+Kerala,2006,3,1,false
+Kerala,2008,3,0,false
+Kerala,2012,3,0,false
+Maharashtra,2011,3,2,false
+Meghalaya,2007,3,0,false
+Meghalaya,2008,3,0,false
+Punjab,2012,3,1,false
+Rajasthan,2007,3,3,false
+Rajasthan,2008,3,2,false
+Tamil Nadu,2012,3,4,false
+West Bengal,2002,3,0,false
+West Bengal,2004,3,1,true
+Delhi,2008,3,0,false
+Rajasthan,2013,3,2,false
+West Bengal,2013,3,2,false
+Andhra Pradesh,2012,2,0,false
+Assam,2004,2,8,false
+Assam,2007,2,17,false
+Assam,2008,2,0,false
+Bihar,2005,2,33,false
+Bihar,2011,2,4,false
+Chhattisgarh,2003,2,2,false
+Chhattisgarh,2008,2,0,false
+Haryana,2002,2,8,false
+Jharkhand,2007,2,92,false
+Kerala,2001,2,0,false
+Madhya Pradesh,2009,2,15,false
+Orissa,2010,2,0,false
+Rajasthan,2004,2,2,false
+Rajasthan,2011,2,4,false
+Rajasthan,2012,2,4,false
+Tripura,2007,2,8,false
+Uttaranchal,2003,2,9,false
+Uttaranchal,2009,2,0,false
+West Bengal,2012,2,6,false
+Chandigarh,2007,2,0,false
+Chandigarh,2012,2,0,false
+Delhi,2001,2,0,false
+Pondicherry,2009,2,0,false
+Assam,2013,2,5,false
+Gujarat,2013,2,1,false
+Jammu & Kashmir,2013,2,4,false
+Andhra Pradesh,2001,1,1,false
+Andhra Pradesh,2003,1,1,false
+Assam,2002,1,1,false
+Assam,2003,1,3,false
+Assam,2006,1,63,false
+Assam,2009,1,0,false
+Chhattisgarh,2001,1,21,false
+Chhattisgarh,2009,1,0,false
+Goa,2007,1,0,false
+Himachal Pradesh,2004,1,0,false
+Himachal Pradesh,2005,1,0,false
+Himachal Pradesh,2007,1,1,false
+Jammu & Kashmir,2010,1,3,false
+Jharkhand,2012,1,3,false
+Karnataka,2011,1,0,false
+Kerala,2004,1,9,false
+Manipur,2002,1,0,false
+Manipur,2003,1,0,false
+Manipur,2008,1,0,false
+Rajasthan,2001,1,13,false
+Tamil Nadu,2004,1,0,false
+Tripura,2012,1,0,false
+Uttaranchal,2005,1,15,false
+Uttaranchal,2012,1,0,false
+West Bengal,2006,1,55,false
+Chandigarh,2008,1,0,false
+Chandigarh,2009,1,0,false
+Himachal Pradesh,2013,1,0,false
+Kerala,2013,1,0,false
+Tamil Nadu,2013,1,2,false
+Tripura,2013,1,1,false
+Uttaranchal,2013,1,0,false
+A & N Islands,2013,1,0,false
+Andhra Pradesh,2004,0,0,false
+Andhra Pradesh,2005,0,0,false
+Andhra Pradesh,2006,0,0,false
+Andhra Pradesh,2007,0,0,false
+Andhra Pradesh,2008,0,0,false
+Andhra Pradesh,2009,0,0,false
+Andhra Pradesh,2010,0,0,false
+Arunachal Pradesh,2009,0,0,false
+Arunachal Pradesh,2010,0,0,false
+Arunachal Pradesh,2011,0,0,false
+Arunachal Pradesh,2012,0,0,false
+Assam,2010,0,2,false
+Assam,2011,0,1,false
+Chhattisgarh,2012,0,4,false
+Chhattisgarh,2004,0,0,false
+Chhattisgarh,2005,0,0,false
+Chhattisgarh,2006,0,0,false
+Chhattisgarh,2010,0,0,false
+Chhattisgarh,2011,0,0,false
+Goa,2001,0,0,false
+Goa,2002,0,0,false
+Goa,2003,0,0,false
+Goa,2004,0,0,false
+Goa,2005,0,0,false
+Goa,2006,0,0,false
+Goa,2008,0,0,false
+Goa,2009,0,0,false
+Goa,2010,0,0,false
+Goa,2011,0,0,false
+Goa,2012,0,1,false
+Gujarat,2002,0,0,false
+Gujarat,2006,0,0,false
+Gujarat,2007,0,0,false
+Gujarat,2008,0,0,false
+Gujarat,2010,0,0,false
+Haryana,2005,0,0,false
+Haryana,2006,0,3,false
+Haryana,2010,0,1,false
+Himachal Pradesh,2001,0,0,false
+Himachal Pradesh,2002,0,0,false
+Himachal Pradesh,2003,0,0,false
+Himachal Pradesh,2006,0,0,false
+Himachal Pradesh,2008,0,1,false
+Himachal Pradesh,2009,0,0,false
+Himachal Pradesh,2010,0,0,false
+Himachal Pradesh,2011,0,0,false
+Himachal Pradesh,2012,0,0,false
+Jammu & Kashmir,2002,0,0,false
+Jammu & Kashmir,2003,0,5,false
+Jammu & Kashmir,2004,0,5,false
+Jammu & Kashmir,2005,0,0,false
+Jammu & Kashmir,2006,0,3,false
+Jammu & Kashmir,2008,0,0,false
+Jammu & Kashmir,2012,0,0,false
+Jharkhand,2001,0,0,false
+Jharkhand,2003,0,0,false
+Karnataka,2001,0,0,false
+Karnataka,2002,0,0,false
+Karnataka,2003,0,0,false
+Kerala,2002,0,0,false
+Kerala,2010,0,0,false
+Kerala,2011,0,3,false
+Manipur,2001,0,0,false
+Manipur,2004,0,0,false
+Manipur,2005,0,0,false
+Manipur,2006,0,0,false
+Manipur,2007,0,0,false
+Manipur,2009,0,0,false
+Manipur,2010,0,0,false
+Manipur,2011,0,1,false
+Manipur,2012,0,0,false
+Meghalaya,2001,0,1,false
+Meghalaya,2002,0,0,false
+Meghalaya,2003,0,0,false
+Meghalaya,2004,0,0,false
+Meghalaya,2005,0,0,false
+Meghalaya,2006,0,1,false
+Meghalaya,2009,0,0,false
+Meghalaya,2010,0,0,false
+Meghalaya,2011,0,0,false
+Meghalaya,2012,0,0,false
+Mizoram,2001,0,0,false
+Mizoram,2002,0,0,false
+Mizoram,2003,0,0,false
+Mizoram,2004,0,0,false
+Mizoram,2005,0,0,false
+Mizoram,2006,0,0,false
+Mizoram,2007,0,0,false
+Mizoram,2008,0,0,false
+Mizoram,2009,0,0,false
+Mizoram,2010,0,0,false
+Mizoram,2011,0,0,false
+Mizoram,2012,0,0,false
+Nagaland,2001,0,6,false
+Nagaland,2002,0,4,false
+Nagaland,2003,0,5,false
+Nagaland,2004,0,0,false
+Nagaland,2005,0,0,false
+Nagaland,2006,0,0,false
+Nagaland,2007,0,0,false
+Nagaland,2008,0,0,false
+Nagaland,2009,0,0,false
+Nagaland,2010,0,0,false
+Nagaland,2011,0,0,false
+Nagaland,2012,0,0,false
+Orissa,2002,0,0,false
+Orissa,2003,0,0,false
+Orissa,2005,0,0,false
+Orissa,2008,0,0,false
+Orissa,2009,0,0,false
+Orissa,2011,0,0,false
+Orissa,2012,0,2,false
+Punjab,2002,0,0,false
+Punjab,2003,0,0,false
+Punjab,2004,0,0,false
+Punjab,2005,0,0,false
+Punjab,2006,0,0,false
+Punjab,2007,0,0,false
+Punjab,2008,0,0,false
+Punjab,2009,0,0,false
+Punjab,2010,0,0,false
+Rajasthan,2002,0,0,false
+Rajasthan,2009,0,1,false
+Sikkim,2001,0,0,false
+Sikkim,2002,0,0,false
+Sikkim,2003,0,0,false
+Sikkim,2004,0,0,false
+Sikkim,2005,0,0,false
+Sikkim,2006,0,0,false
+Sikkim,2007,0,0,false
+Sikkim,2008,0,0,false
+Sikkim,2009,0,0,false
+Sikkim,2010,0,0,false
+Sikkim,2011,0,0,false
+Sikkim,2012,0,0,false
+Tamil Nadu,2008,0,0,false
+Tamil Nadu,2011,0,2,false
+Tripura,2001,0,0,false
+Tripura,2002,0,0,false
+Tripura,2003,0,0,false
+Tripura,2004,0,0,false
+Tripura,2005,0,0,false
+Tripura,2006,0,0,false
+Tripura,2008,0,0,false
+Tripura,2009,0,1,false
+Tripura,2010,0,0,false
+Tripura,2011,0,0,false
+Uttaranchal,2001,0,0,false
+Uttaranchal,2002,0,0,false
+Uttaranchal,2004,0,0,false
+Uttaranchal,2007,0,0,false
+Uttaranchal,2008,0,0,false
+Uttaranchal,2010,0,0,false
+Uttaranchal,2011,0,0,false
+West Bengal,2003,0,0,false
+A & N Islands,2002,0,0,false
+A & N Islands,2003,0,0,false
+A & N Islands,2004,0,0,false
+A & N Islands,2005,0,0,false
+A & N Islands,2006,0,0,false
+A & N Islands,2007,0,0,false
+A & N Islands,2008,0,0,false
+A & N Islands,2009,0,0,false
+A & N Islands,2010,0,0,false
+A & N Islands,2011,0,0,false
+A & N Islands,2012,0,0,false
+Chandigarh,2001,0,0,false
+Chandigarh,2002,0,0,false
+Chandigarh,2003,0,0,false
+Chandigarh,2004,0,0,false
+Chandigarh,2005,0,0,false
+Chandigarh,2006,0,0,false
+Chandigarh,2010,0,2,false
+Chandigarh,2011,0,1,false
+D & N Haveli,2001,0,0,false
+D & N Haveli,2002,0,0,false
+D & N Haveli,2003,0,0,false
+D & N Haveli,2004,0,0,false
+D & N Haveli,2005,0,0,false
+D & N Haveli,2006,0,0,false
+D & N Haveli,2007,0,0,false
+D & N Haveli,2008,0,0,false
+D & N Haveli,2009,0,0,false
+D & N Haveli,2010,0,0,false
+D & N Haveli,2011,0,0,false
+D & N Haveli,2012,0,0,false
+Daman & Diu,2001,0,0,false
+Daman & Diu,2003,0,0,false
+Daman & Diu,2004,0,0,false
+Daman & Diu,2005,0,0,false
+Daman & Diu,2006,0,0,false
+Daman & Diu,2007,0,0,false
+Daman & Diu,2008,0,0,false
+Daman & Diu,2009,0,0,false
+Daman & Diu,2010,0,0,false
+Daman & Diu,2011,0,0,false
+Daman & Diu,2012,0,0,false
+Delhi,2009,0,4,false
+Lakshadweep,2001,0,0,false
+Lakshadweep,2002,0,1,false
+Lakshadweep,2003,0,0,false
+Lakshadweep,2004,0,0,false
+Lakshadweep,2005,0,0,false
+Lakshadweep,2006,0,0,false
+Lakshadweep,2007,0,1,false
+Lakshadweep,2008,0,0,false
+Lakshadweep,2009,0,0,false
+Lakshadweep,2010,0,0,false
+Lakshadweep,2011,0,0,false
+Lakshadweep,2012,0,0,false
+Pondicherry,2001,0,1,false
+Pondicherry,2002,0,0,false
+Pondicherry,2003,0,0,false
+Pondicherry,2004,0,0,false
+Pondicherry,2005,0,0,false
+Pondicherry,2006,0,0,false
+Pondicherry,2007,0,0,false
+Pondicherry,2008,0,0,false
+Pondicherry,2010,0,0,false
+Pondicherry,2011,0,0,false
+Pondicherry,2012,0,0,false
+Andhra Pradesh,2013,0,0,false
+Arunachal Pradesh,2013,0,0,false
+Goa,2013,0,0,false
+Manipur,2013,0,0,false
+Meghalaya,2013,0,0,false
+Mizoram,2013,0,0,false
+Nagaland,2013,0,0,false
+Orissa,2013,0,0,false
+Punjab,2013,0,11,false
+Sikkim,2013,0,0,false
+Chandigarh,2013,0,2,false
+D & N Haveli,2013,0,0,false
+Daman & Diu,2013,0,0,false
+Lakshadweep,2013,0,0,false
+Pondicherry,2013,0,0,false
